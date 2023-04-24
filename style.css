@@ -1,0 +1,34 @@
+a{
+    color:crimson;
+}
+ul {
+    color:crimson;
+}
+form {
+    color: rgb(0, 215, 39);
+}
+
+
+h2 {
+    background-color: #1f5418;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px
+}
+header {
+    background-color: #1f5418;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  footer {
+      background-color: #1f5418;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    

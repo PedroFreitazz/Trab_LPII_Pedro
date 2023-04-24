@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: auto;
+}
+body {
+    background-color:beige;
+}
+form {
+    height: 100px;
+    width:  300px;
+}
+    input{
+        padding: 20px;    
+    }
